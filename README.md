@@ -64,32 +64,13 @@ A public-safe AI workflow project for scientific micro-storytelling, combining s
 - literature-derived data structuring
 - scientific workflow design
 
-## Public Repository Policy
+## Repository Scope
 
-Repositories on this profile are intended for public-safe technical materials only.
+Repositories on this profile are public-safe technical materials: analysis scripts, synthetic or openly available sample data, visualization code, prototype ML workflows, and research-oriented documentation.
 
-They may include:
+Sensitive field data, clinical or personal human data, unpublished manuscript text, grant documents, reviewer correspondence, and confidential collaboration materials are not included.
 
-- analysis scripts
-- synthetic or openly available sample data
-- reproducible workflow templates
-- literature-derived visualization code
-- prototype machine-learning pipelines
-- public-safe documentation
-- demo automation scaffolds
-
-They do not include:
-
-- unpublished manuscript text
-- grant documents
-- reviewer correspondence
-- confidential project strategy
-- private collaborator communications
-- sensitive field data
-- clinical or personal human data
-- institutional planning documents
-
-Where sample data are provided, they are synthetic, literature-derived, or openly available. Repository materials are intended to document computational workflow structure and research direction; they do not replace peer-reviewed publication.
+Where sample data are provided, they are synthetic, literature-derived, or openly available. Repository materials document computational workflow structure and research direction; they do not replace peer-reviewed publication.
 
 ## Links
 
