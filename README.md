@@ -1,55 +1,61 @@
 # Begüm Savaşan Asgarlı
 
-Bioengineer and independent researcher working across computational bioengineering, environmental health, biosensor-based monitoring, biomedical signal analysis, and scientific machine learning.
+Bioengineer and independent researcher working across quantitative bioengineering, biophysics, thermodynamics, evidence synthesis, scientific computing, and research strategy.
 
-My work focuses on building public-safe computational workflows, research prototypes, visualization tools, and structured technical documentation for biomedical and environmental applications.
+My work spans both applied and theory-driven problems: biomedical sensing and signal analysis, membrane biophysics and phase behavior, thermodynamic modeling, structured evidence synthesis, environmental-health monitoring frameworks, and reproducible scientific workflows.
 
-## Current Focus Areas
+## Research Domains
 
-- Heavy-metal exposure and neurodevelopmental risk framing in post-conflict environmental health
-- Risk-based biosensor, IoT, and ML frameworks for post-conflict water-quality monitoring
-- Thermodynamic modeling of biological membrane phase transitions
-- Photoplethysmography-based biomedical signal analysis and ML workflows
-- Critical-temperature recovery from liquid–vapor coexistence-curve data
-- AI-assisted scientific storytelling and content-pipeline automation
+### Bioengineering & Biomedical Systems
+- biosensors and physiological sensing
+- photoplethysmography (PPG)
+- biomedical signal processing
+- ML-assisted biomedical analysis
+- diagnostics and translational research
 
-## Research & Technical Interests
+### Biophysics & Thermodynamic Modeling
+- membrane phase behavior
+- lipid thermodynamics
+- phase transitions and coexistence
+- pressure-temperature geometry
+- critical phenomena and equation-based modeling
 
-- Computational bioengineering
-- Environmental health and exposure-risk modeling
-- Biosensors and point-of-care monitoring systems
-- Scientific machine learning
-- Biomedical signal processing
-- Thermodynamic data modeling
-- Literature-derived data visualization
-- Research workflow design
-- AI-assisted scientific communication
+### Evidence Synthesis & Research Methodology
+- systematic, scoping, and structured critical reviews
+- methodological audits and validation frameworks
+- literature-derived data structuring
+- reproducibility and research documentation
+- statistical and computational analysis
 
-## Selected Project Directions
+### Environmental & Monitoring Research
+- post-conflict environmental-health risk framing
+- water-quality monitoring architectures
+- sensor, IoT, and ML-informed monitoring concepts
+- exposure-risk evidence synthesis
 
-### Post-Conflict Environmental Health
+### Scientific Research Strategy
+- manuscript development
+- technical white papers
+- research proposals and grant architecture
+- cross-disciplinary research design
+- scientific and technical communication
 
-Public-safe framework development for evaluating heavy-metal exposure risks in post-conflict regions, with emphasis on monitoring gaps, environmental-health risk framing, and neurodevelopmental relevance.
+## Selected Open Research Outputs
 
-### Water-Quality Monitoring Frameworks
+- **Fingernail-mounted PPG + machine learning for vital-sign monitoring**  
+  DOI: https://doi.org/10.62476/bio.ph.12162
 
-Prototype computational scaffolds for risk-based water monitoring, combining electrochemical sensing concepts, IoT-style data flow, and machine-learning-assisted prioritization.
+- **DPPC biophysics / thermodynamic analysis — public data and code archive**  
+  Mendeley Data DOI: https://doi.org/10.17632/r97b37bfjg.1
 
-### Thermodynamic Bioengineering
+Additional publications and research outputs are indexed through my ORCID profile.
 
-Hypothesis-oriented analysis workflows exploring thermodynamic structure in biological membrane phase transitions, including DPPC bilayer transition modeling.
+## Public Repositories
 
-### Biomedical Signal Analysis
+- **ppg-ml-vital-sign-monitoring** — public companion repository for published wearable PPG / ML research
+- **dppc-biophysics-thermodynamics** — public companion repository for reproducible DPPC biophysics and thermodynamic analysis
 
-Exploratory workflows for photoplethysmography signal preprocessing, feature extraction, and ML-style analysis in wearable or fingernail-mounted sensing contexts.
-
-### Critical-Temperature Recovery
-
-Scientific ML workflows for estimating critical-temperature information from liquid–vapor coexistence-curve geometry and truncated saturation-density data.
-
-### They Had Names
-
-A public-safe AI workflow project for scientific micro-storytelling, combining structured research dossiers, script generation, scene planning, and review-oriented content automation.
+Active manuscript-development, reviewer, confidential, and collaboration repositories remain private. Public repositories contain only material suitable for open release.
 
 ## Methods & Tools
 
@@ -57,20 +63,18 @@ A public-safe AI workflow project for scientific micro-storytelling, combining s
 - pandas, NumPy, SciPy
 - scikit-learn
 - matplotlib
-- data cleaning and preprocessing
-- feature extraction
-- regression and classification workflows
-- visualization pipelines
-- literature-derived data structuring
-- scientific workflow design
+- biomedical signal processing
+- statistical analysis
+- thermodynamic modeling
+- structured evidence synthesis
+- reproducible research workflows
+- scientific data visualization
 
-## Repository Scope
+## Open-Research Policy
 
-Repositories on this profile are public-safe technical materials: analysis scripts, synthetic or openly available sample data, visualization code, prototype ML workflows, and research-oriented documentation.
+Public repositories are curated for reproducibility and traceability. They may include analysis code, openly shareable or synthetic data, figure-generation workflows, documentation, and citation metadata.
 
-Sensitive field data, clinical or personal human data, unpublished manuscript text, grant documents, reviewer correspondence, and confidential collaboration materials are not included.
-
-Where sample data are provided, they are synthetic, literature-derived, or openly available. Repository materials document computational workflow structure and research direction; they do not replace peer-reviewed publication.
+Sensitive human data, confidential collaboration materials, unpublished manuscript text, reviewer correspondence, restricted source files, and protected intellectual property are not released through public repositories.
 
 ## Links
 
