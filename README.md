@@ -1,85 +1,78 @@
 # Begüm Savaşan Asgarlı
 
-Bioengineer and independent researcher working across quantitative bioengineering, biophysics, thermodynamics, evidence synthesis, scientific computing, and research strategy.
+**Bioengineer · Independent Researcher · Scientific Consultant**
 
-My work spans both applied and theory-driven problems: biomedical sensing and signal analysis, membrane biophysics and phase behavior, thermodynamic modeling, structured evidence synthesis, environmental-health monitoring frameworks, and reproducible scientific workflows.
+**ORCID:** [0000-0003-4809-7115](https://orcid.org/0000-0003-4809-7115)
 
-## Research Domains
+I work across quantitative bioengineering, biophysics, thermodynamics, evidence synthesis, scientific computing, environmental-health research, and research strategy.
+
+My projects span both theory-driven and applied problems: membrane phase behavior and critical phenomena, biomedical sensing and physiological signal analysis, systematic and structured evidence synthesis, environmental monitoring frameworks, reproducible scientific workflows, and academic consulting.
+
+## Research areas
 
 ### Bioengineering & Biomedical Systems
-- biosensors and physiological sensing
-- photoplethysmography (PPG)
+- physiological sensing and biosignal analysis
+- photoplethysmography and wearable systems
 - biomedical signal processing
 - ML-assisted biomedical analysis
-- diagnostics and translational research
+- diagnostics, translational research, and device-oriented R&D
 
-### Biophysics & Thermodynamic Modeling
-- membrane phase behavior
-- lipid thermodynamics
-- phase transitions and coexistence
-- pressure-temperature geometry
-- critical phenomena and equation-based modeling
+### Biophysics & Thermodynamics
+- membrane phase behavior and lipid thermodynamics
+- phase transitions, coexistence, and critical phenomena
+- pressure-temperature relationships
+- equation-based and geometric modeling
+- thermodynamic consistency and numerical reconstruction
 
 ### Evidence Synthesis & Research Methodology
 - systematic, scoping, and structured critical reviews
 - methodological audits and validation frameworks
-- literature-derived data structuring
-- reproducibility and research documentation
 - statistical and computational analysis
+- reproducibility, provenance, and research documentation
 
-### Environmental & Monitoring Research
-- post-conflict environmental-health risk framing
+### Environmental & Public-Health Systems
+- environmental-health risk framing
+- post-conflict monitoring problems
 - water-quality monitoring architectures
 - sensor, IoT, and ML-informed monitoring concepts
 - exposure-risk evidence synthesis
 
-### Scientific Research Strategy & Consulting
-- manuscript development
+### Research Strategy & Scientific Consulting
+- manuscript development and publication workflows
 - technical white papers
 - research proposals and grant architecture
+- reproducibility packages
 - cross-disciplinary research design
-- scientific and technical communication
-- reproducibility packages for client and collaborative research
+- academic scientific consulting
 
-## Selected Open Research & Consulting Outputs
+## Selected open outputs
 
-- **Fingernail-mounted PPG + machine learning for vital-sign monitoring**  
-  Peer-reviewed publication: https://doi.org/10.62476/bio.ph.12162
+These are examples, not the limits of my research scope.
 
-- **DPPC biophysics / thermodynamic analysis — evidence and reproducible code archive**  
-  Mendeley Data DOI: https://doi.org/10.17632/r97b37bfjg.1
+- Peer-reviewed biomedical sensing research: https://doi.org/10.62476/bio.ph.12162
+- DPPC biophysics / thermodynamics reproducibility archive: https://doi.org/10.17632/r97b37bfjg.1
+- Scientific consulting reproducibility package for Cu-Zn field data: https://doi.org/10.17632/pjw8wfyr7c.1
 
-- **Scientific consulting reproducibility package — three-year orange/lemon Cu–Zn field-response analysis**  
-  Mendeley Data DOI: https://doi.org/10.17632/pjw8wfyr7c.1  
-  This is presented as consulting/reproducibility work, not as a first-author publication claim.
+For the broader publication record, see my [ORCID profile](https://orcid.org/0000-0003-4809-7115).
 
-Additional publications and research outputs are indexed through my ORCID profile.
+## Public repositories
 
-## Public Repositories
+Public repositories are selected research and reproducibility companions; they do not define the boundaries of my work.
 
-- **[ppg-ml-vital-sign-monitoring](https://github.com/begumsavasan/ppg-ml-vital-sign-monitoring)** — public companion repository for published wearable PPG / ML research
-- **[dppc-biophysics-thermodynamics](https://github.com/begumsavasan/dppc-biophysics-thermodynamics)** — public companion repository for reproducible DPPC biophysics and thermodynamic analysis
+- [ppg-ml-vital-sign-monitoring](https://github.com/begumsavasan/ppg-ml-vital-sign-monitoring)
+- [dppc-biophysics-thermodynamics](https://github.com/begumsavasan/dppc-biophysics-thermodynamics)
 
-Active manuscript-development, reviewer, confidential, and collaboration repositories remain private. Public repositories contain only material suitable for open release.
+Additional repositories will be opened when publication, licensing, confidentiality, and data-governance constraints allow.
 
-## Methods & Tools
+## Methods & tools
 
-- Python
-- pandas, NumPy, SciPy
-- scikit-learn
-- matplotlib
-- biomedical signal processing
-- statistical analysis
-- thermodynamic modeling
-- structured evidence synthesis
-- reproducible research workflows
-- scientific data visualization
+Python · pandas · NumPy · SciPy · scikit-learn · matplotlib · statistical analysis · biomedical signal processing · thermodynamic modeling · structured evidence synthesis · scientific data visualization · reproducible research workflows
 
-## Open-Research Policy
+## Public-release policy
 
-Public repositories are curated for reproducibility and traceability. They may include analysis code, openly shareable or synthetic data, figure-generation workflows, documentation, and citation metadata.
+Public repositories may contain analysis code, openly shareable or synthetic data, figure-generation workflows, documentation, and citation metadata.
 
-Sensitive human data, confidential collaboration materials, unpublished manuscript text, reviewer correspondence, restricted source files, and protected intellectual property are not released through public repositories.
+Sensitive human data, confidential collaboration material, unpublished manuscript text, reviewer correspondence, restricted source files, private grant material, and protected intellectual property are not released publicly.
 
 ## Links
 
