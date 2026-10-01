@@ -57,8 +57,8 @@ Additional publications and research outputs are indexed through my ORCID profil
 
 ## Public Repositories
 
-- **ppg-ml-vital-sign-monitoring** — public companion repository for published wearable PPG / ML research
-- **dppc-biophysics-thermodynamics** — public companion repository for reproducible DPPC biophysics and thermodynamic analysis
+- **[ppg-ml-vital-sign-monitoring](https://github.com/begumsavasan/ppg-ml-vital-sign-monitoring)** — public companion repository for published wearable PPG / ML research
+- **[dppc-biophysics-thermodynamics](https://github.com/begumsavasan/dppc-biophysics-thermodynamics)** — public companion repository for reproducible DPPC biophysics and thermodynamic analysis
 
 Active manuscript-development, reviewer, confidential, and collaboration repositories remain private. Public repositories contain only material suitable for open release.
 
