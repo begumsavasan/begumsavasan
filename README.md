@@ -33,20 +33,25 @@ My work spans both applied and theory-driven problems: biomedical sensing and si
 - sensor, IoT, and ML-informed monitoring concepts
 - exposure-risk evidence synthesis
 
-### Scientific Research Strategy
+### Scientific Research Strategy & Consulting
 - manuscript development
 - technical white papers
 - research proposals and grant architecture
 - cross-disciplinary research design
 - scientific and technical communication
+- reproducibility packages for client and collaborative research
 
-## Selected Open Research Outputs
+## Selected Open Research & Consulting Outputs
 
 - **Fingernail-mounted PPG + machine learning for vital-sign monitoring**  
-  DOI: https://doi.org/10.62476/bio.ph.12162
+  Peer-reviewed publication: https://doi.org/10.62476/bio.ph.12162
 
-- **DPPC biophysics / thermodynamic analysis — public data and code archive**  
+- **DPPC biophysics / thermodynamic analysis — evidence and reproducible code archive**  
   Mendeley Data DOI: https://doi.org/10.17632/r97b37bfjg.1
+
+- **Scientific consulting reproducibility package — three-year orange/lemon Cu–Zn field-response analysis**  
+  Mendeley Data DOI: https://doi.org/10.17632/pjw8wfyr7c.1  
+  This is presented as consulting/reproducibility work, not as a first-author publication claim.
 
 Additional publications and research outputs are indexed through my ORCID profile.
 
